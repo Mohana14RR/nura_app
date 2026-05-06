@@ -63,8 +63,8 @@ lib/
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/Mohana14RR/nura_app.git
+cd NURA_APP
 ```
 
 ---
